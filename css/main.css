@@ -1,0 +1,173 @@
+body{
+    font-size:16px;
+    background-color:#E5E5E5;
+}
+
+
+/* Jumbo */
+.jumbotron{
+    padding-left:0px;
+    padding-right:0px;
+    width:100%;
+    height:auto;
+    margin-bottom:0;
+    background-color:white;
+}
+
+.jumbotron img{
+    max-width:50%;
+    height:auto;
+    display:block;
+    margin: 0 auto;
+}
+
+/* Text */
+h1, 
+h2, 
+h3, 
+h4{
+    text-align:center;
+    padding: 1em 1em;
+    font-family: 'Lato', sans-serif;
+}
+
+h2{
+    text-transform: uppercase;
+    text-decoration:underline;
+}
+
+h4{
+    font-size: 1.2rem;
+}
+p{
+    font-size:1.2em;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    text-align: justify;
+}
+
+
+/* NAVIGATION */
+.fa-bars{
+    color:white;
+}
+.nav{
+    background-color:#019BA6;
+    
+}
+
+
+.navbar{
+    background-color:#019BA6;
+    padding:0;
+}
+
+
+.navbar li:hover{
+    background-color: white;
+    transition: 0.05s ease-in 0.05s;
+    
+}
+
+
+
+.navbar a{
+    color:white;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+}
+.navbar a:hover{
+    color:black;
+}
+
+.nav-item{
+   
+    width:100%;
+    text-align: center;
+}
+
+.navbar a{
+    font-size: 1.5em;
+}
+
+/* Footer */
+
+.footerlinks a{
+    color:white;
+}
+
+
+
+/* CONTENT */
+.container{
+    width:100%;
+}
+
+.thumbnail img{
+    width:100%;
+}
+
+h2{
+    padding-top: 1em ;
+    padding-bottom: 1em;
+}
+
+#about{
+    width:90%;
+    margin: 0 auto;
+    padding-bottom: 2em;
+    border-bottom: 5px solid #019BA6;
+    
+}
+
+
+
+#work{
+    width:90%;
+    margin: 0 auto;
+    padding-bottom: 2em;
+    border-bottom: 5px solid #019BA6;
+}
+
+
+.caption{
+    text-align:center;
+}
+#projects{
+    width:90%;
+    margin: 0 auto;
+    padding-bottom: 2em;
+    border-bottom: 5px solid #019BA6;
+}
+
+#contact{
+    width:90%;
+    margin: 0 auto;
+    padding-bottom: 2em;
+   
+}
+
+.fa-linkedin-in, 
+.fa-git, 
+.fa-youtube, 
+.fa-instagram, 
+.fa-facebook{
+    color:black;
+}
+
+.modal-body{
+    opacity:0;
+}
+
+.blog-footer{
+    margin-top:1em;
+    border-top: 5px solid #019BA6
+}
+
+
+.thumbnail img{
+   
+    
+    margin-bottom:2em;
+}
+
